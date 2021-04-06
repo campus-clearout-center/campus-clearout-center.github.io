@@ -1,1 +1,9 @@
+title: Campus Clearout Center
+description: Buy and sell student handmedowns
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-minimal
+github:
+  is_project_page: true
+gems:
+  - jekyll-mentions
