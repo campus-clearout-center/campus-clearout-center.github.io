@@ -52,3 +52,8 @@ Users add their username and password, and when they click submit, they are brou
 If the user does not have an account, they will have to enter their first and last name, email, and password. The register page will require them to enter all the information, and when they click submit their account will created. 
 
 <img src="images/register-page.png">
+
+## List Item page
+The user will be able to see all the items listed for sale as well as any items they have added to the site. 
+
+<img src="images/list-item-page.png">
