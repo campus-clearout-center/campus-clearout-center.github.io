@@ -4,6 +4,9 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 ## Deployment
 [Deployment](http://104.236.7.90/#/)
 
+## Project Pages
+[M1](https://github.com/orgs/campus-clearout-center/projects/1)
+
 ## Team Members
 - Skyler Kimura
 - Chase Lee
