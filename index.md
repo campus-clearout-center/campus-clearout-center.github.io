@@ -38,3 +38,13 @@ When the user signs in, They are given options above like "List Item" and "Creat
 When the admin signs in, They are given the same option that the users are given but with additional admin controls as seen on the admin button on the top of their navbar
 
 <img src="images/admin-home-page.png">
+
+## Log in page
+Users add their username and password, and when they click submit, they are brought to the home page. If the user does not have a profile, then they can click on the "Click here to register" button.
+
+<img src="images/login-page.png">
+
+## Register page
+If the user does not have an account, they will have to enter their first and last name, email, and password. The register page will require them to enter all the information, and when they click submit their account will created. 
+
+<img src="images/register-page.png">
