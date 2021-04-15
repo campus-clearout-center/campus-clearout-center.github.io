@@ -24,3 +24,14 @@ By the end of the project we will have a working program that will allow users t
 This is the page that the viewer will first see when opening up the website. It is a nice sunset picture of campus center that is given two options in the middle which is to login and register for the website.
 
 <img src="images/landing-page.png">
+
+## User Home page
+When the user signs in, They are given options above like "List Item" and "Create Item" on the top navbar alongside a profile indicator on the topright which can direct them to a profile page of their own or the option to sign out
+
+<img src="images/user-home-page.png">
+
+
+## Admin Home page
+When the admin signs in, They are given the same option that the users are given but with additional admin controls as seen on the admin button on the top of their navbar
+
+<img src="images/admin-home-page.png">
