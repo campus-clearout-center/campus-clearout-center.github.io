@@ -19,3 +19,8 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 
 ## Goal
 By the end of the project we will have a working program that will allow users to easily post items that they would like to sell using picture, browse the items posted, and buy the items or make an offer on an item using a form.
+
+## Landing page
+This is the page that the viewer will first see when opening up the website. It is a nice sunset picture of campus center that is given two options in the middle which is to login and register for the website.
+
+<img src="images/landing-page.png">
