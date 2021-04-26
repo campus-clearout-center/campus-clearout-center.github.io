@@ -91,4 +91,20 @@ When the user is ready to sell an item they can input the information and provid
 
 <img src="images/sell-item.png">
           
+ # Developer Guide
+ This section provides instruction on how to install the project on your own device and view. 
  
+ ## Installation 
+ First [install Meteor](https://www.meteor.com/developers/install)
+ 
+ Second, visit the [Campus Clearout Center github page](https://github.com/campus-clearout-center/clearout-center), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+ 
+ Third, cd into the clearout-center/app directory and install libraries with:
+ ```
+ $ meteor npm install
+ ```
+ Fourth, run the system with:
+ ```
+ $ meteor npm run start
+ ```
+ If all goes well, the application will appear at http://localhost:3000.
