@@ -57,6 +57,11 @@ If the user does not have an account, they will have to enter their first and la
 <img src="images/register-page.png">
 
 ### List Item page
-The user will be able to see all the items listed for sale as well as any items they have added to the site. 
+The user will be able to see all the items listed for sale as well as any items they have added to the site sorted by the labels they are categorized in. 
 
-<img src="images/list-item-page.png">
+<img src="images/list-item.png">
+
+### List Item page (Admin)
+When Admin is logged in, they will be able to see the items listed by category and also see them all at once. 
+
+<img src="images/list-admin.png">
