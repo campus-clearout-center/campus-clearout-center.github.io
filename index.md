@@ -69,4 +69,26 @@ When Admin is logged in, they will be able to see the items listed by category a
 ### Report page
 You can also report items, they will appear for the admin to review. 
 
-<img src='images/report-page.png">
+<img src="images/report-page.png">
+
+### Profile page
+The User will be able to see the items they listed as well as their personal information.
+
+<img src="images/profile-page.png">
+
+### Edit Profile
+The user will only be able to edit their username, bio, and picture.
+
+<img src="images/edit-profile.png">
+
+### Edit Item
+User's will be able to edit items they listed for sale under their profile page.
+
+<img src="images/edit-item.png">
+
+### Sell Item
+When the user is ready to sell an item they can input the information and provide a picture for the item as well as the label for the item which will place it on the correct category page. 
+
+<img src="images/sell-item.png">
+          
+ 
