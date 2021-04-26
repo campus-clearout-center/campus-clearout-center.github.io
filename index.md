@@ -65,3 +65,8 @@ The user will be able to see all the items listed for sale as well as any items 
 When Admin is logged in, they will be able to see the items listed by category and also see them all at once. 
 
 <img src="images/list-admin.png">
+
+### Report page
+You can also report items, they will appear for the admin to review. 
+
+<img src='images/report-page.png">
