@@ -7,6 +7,7 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 ## Project Pages
 - [M1](https://github.com/orgs/campus-clearout-center/projects/1)
 - [M2](https://github.com/orgs/campus-clearout-center/projects/2)
+- [M3](https://github.com/orgs/campus-clearout-center/projects/3)
 
 ## Team Members
 - Skyler Kimura
