@@ -27,7 +27,7 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 ## Goal
 By the end of the project we will have a working program that will allow users to easily post items that they would like to sell using picture, browse the items posted, and buy the items or make an offer on an item using a form.
 
-# User Developer Guide
+# User Guide
 This section provides a walkthrough of our campus clearout center user interface and its capabilities.
 
 ### Landing page
@@ -91,15 +91,15 @@ When the user is ready to sell an item they can input the information and provid
 
 <img src="images/sell-item.png">
           
- # Developer Guide
- This section provides instruction on how to install the project on your own device and view. 
+# Developer Guide
+This section provides instruction on how to install the project on your own device and view. 
  
- ## Installation 
- First [install Meteor](https://www.meteor.com/developers/install)
+## Installation 
+First [install Meteor](https://www.meteor.com/developers/install)
  
- Second, visit the [Campus Clearout Center github page](https://github.com/campus-clearout-center/clearout-center), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+Second, visit the [Campus Clearout Center github page](https://github.com/campus-clearout-center/clearout-center), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
  
- Third, cd into the clearout-center/app directory and install libraries with:
+Third, cd into the clearout-center/app directory and install libraries with:
  ```
  $ meteor npm install
  ```
