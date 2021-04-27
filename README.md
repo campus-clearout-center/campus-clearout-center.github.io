@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/campus-clearout-center/campus-clearout-center/workflows/clearout-center/badge.svg)
+
 # campus-clearout-center.github.io
 Home Page
 
