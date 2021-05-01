@@ -29,6 +29,14 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 ## Goal
 By the end of the project we will have a working program that will allow users to easily post items that they would like to sell using picture, browse the items posted, and buy the items or make an offer on an item using a form.
 
+## Community Feedback
+The overall feedback we got from UH community members was that our website was simple and well formatted. It was not too distracting and they found it to be usefull for students who are moving out an easier way to sell their stuff. 
+We received these common critics about our website and changed them in order to make our design more user friendly : 
+- Image option is a little confusing
+- Home text page is hard to read
+- Logo would look better in white
+- More context on home page to explain the website for first time users.
+
 # User Guide
 This section provides a walkthrough of our campus clearout center user interface and its capabilities.
 
