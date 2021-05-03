@@ -118,3 +118,27 @@ Third, cd into the clearout-center/app directory and install libraries with:
  $ meteor npm run start
  ```
  If all goes well, the application will appear at http://localhost:3000.
+ 
+ # Community feedback
+ 
+ 4/30/21
+ - Home text page hard to read
+ - Contact us : page to a form where user can fill things out instead of listed below
+ - logo : white font to match
+ - more context on home page to explain website for first time users?
+ - Sell item, how does image box work? Upload button be better. Move image to bottom
+ - label does not include Miscellaneous option
+ - Yeah, it allow students who are maybe moving out an easier way to sell their stuff
+ 
+ 5/1/21
+ - simple and nice shop website
+ - Well formatted
+ - Nothing too distracting
+ - image option could be more understandable
+
+ 5/2/21
+ - Looks bareboned 
+ - Once the item is sold it should redirect back to the items page
+ - picture for the middle landing page looks blurry
+ - Have an option to have a “more details” of a specific item
+ - Have also a box that describes its conditions and more details of the item
