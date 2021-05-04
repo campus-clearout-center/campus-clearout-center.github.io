@@ -48,38 +48,38 @@ This is the page that the viewer will first see when opening up the website. It 
 ### User Home page
 When the user signs in, They are given options above like "List Item" and "Create Item" on the top navbar alongside a profile indicator on the topright which can direct them to a profile page of their own or the option to sign out
 
-<img src="images/user-home-page.png">
+<img src="images/user-home.png">
 
 
 ### Admin Home page
 When the admin signs in, They are given the same option that the users are given but with additional admin controls as seen on the admin button on the top of their navbar
 
-<img src="images/admin-home-page.png">
+<img src="images/admin-home.png">
 
 ### Log in page
 Users add their username and password, and when they click submit, they are brought to the home page. If the user does not have a profile, then they can click on the "Click here to register" button.
 
-<img src="images/login-page.png">
+<img src="images/login.png">
 
 ### Register page
 If the user does not have an account, they will have to enter their first and last name, email, and password. The register page will require them to enter all the information, and when they click submit their account will created. 
 
-<img src="images/register-page.png">
+<img src="images/register.png">
 
 ### List Item page
 The user will be able to see all the items listed for sale as well as any items they have added to the site sorted by the labels they are categorized in. 
 
-<img src="images/list-item.png">
+<img src="images/sell-item.png">
 
 ### List Item page (Admin)
-When Admin is logged in, they will be able to see the items listed by category and also see them all at once. 
+When Admin is logged in, they will be able to see the items listed by category and also see them all at once. They also can delete items listed.  
 
-<img src="images/list-admin.png">
+<img src="images/admin-list.png">
 
 ### Report page
 You can also report items, they will appear for the admin to review. 
 
-<img src="images/report-page.png">
+<img src="images/report.png">
 
 ### Profile page
 The User will be able to see the items they listed as well as their personal information.
@@ -100,6 +100,15 @@ User's will be able to edit items they listed for sale under their profile page.
 When the user is ready to sell an item they can input the information and provide a picture for the item as well as the label for the item which will place it on the correct category page. 
 
 <img src="images/sell-item.png">
+
+### List All
+User's can also see all the current items listed if they do not have a specific category they are looking for. 
+
+<img src="images/list-all.png">
+
+### Other's Profile Page
+User's can also see other's profile pages and leave a review on their page. 
+<img src="images/review.png">
           
 # Developer Guide
 This section provides instruction on how to install the project on your own device and view. 
