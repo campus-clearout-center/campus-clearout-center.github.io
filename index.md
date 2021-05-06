@@ -128,7 +128,7 @@ Third, cd into the clearout-center/app directory and install libraries with:
  ```
  If all goes well, the application will appear at http://localhost:3000.
  
- # Here is our community feedback 
+**Here is our community feedback (Some of the feedback shown was presented before more changes were made to the website)**
  
  4/30/21
  - Home text page hard to read
