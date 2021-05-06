@@ -128,6 +128,8 @@ Third, cd into the clearout-center/app directory and install libraries with:
  ```
  If all goes well, the application will appear at http://localhost:3000.
  
+ 
+ 
  ## Developer Guide
  
  4/30/21
