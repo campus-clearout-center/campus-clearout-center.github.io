@@ -151,3 +151,9 @@ Third, cd into the clearout-center/app directory and install libraries with:
  - picture for the middle landing page looks blurry
  - Have an option to have a “more details” of a specific item
  - Have also a box that describes its conditions and more details of the item
+
+5/7/21
+ - Need more context on what to do when logged in
+ - Missing miscellaneous is not available when creating an item
+ - Image upload is confusing
+ - Needs a contact us
