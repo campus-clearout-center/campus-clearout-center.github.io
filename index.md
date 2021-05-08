@@ -17,7 +17,7 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 - Benny Trieu
 
 ## System
-- Landing page
+- [Landing page](#landing-page)
 - User home page
 - Admin home page
 - User Profile page
