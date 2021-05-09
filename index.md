@@ -1,15 +1,15 @@
 ![ci-badge](https://github.com/campus-clearout-center/clearout-center/workflows/campus-clearout-center/badge.svg)
 
 # Table of contents
-- [Description](#Description)
-- [Deployment](#Deployment)
-- [Project Pages](#Project-Pages)
-- [Team Members](#Team-Members)
-- [System pages](#System)
-- [Goal](#Goal)
-- [Community Feedback](#Community-Feedback)
-- [User Guide](#User-Guide)
-- [Developer Guide](#Developer-Guide)
+- [Description](#description)
+- [Deployment](#deployment)
+- [Project Pages](#project-pages)
+- [Team Members](#team-members)
+- [System pages](#system)
+- [Goal](#goal)
+- [Community Feedback](#community-feedback)
+- [User Guide](#user-guide)
+- [Developer Guide](#developer-guide)
 
 ## Description
 Campus Clearout Center is a program that will allow users of the UHM community to list and post various objects for sale. After all, another man's trash is another man's treasure. But for the UHM community this could be old textbooks, "campus-specific" goods, generally things that need to be recycled which might offer use to another student. The service will allow buyers to easily browse through the item and choose a location on campus to meet.
