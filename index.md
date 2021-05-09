@@ -18,13 +18,24 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 
 ## System
 - [Landing page](#landing-page)
-- User home page
-- Admin home page
-- User Profile page
-- List Item page
-- Create item page
-- Make offer on item page
-- Report to admin page
+- [Register page](#register-page)
+- [Sign in page](#log-in-page)
+- [User home page](#user-home-page)
+- [List all page](#list-all-page)
+- [Catalog page](#catalog-page)
+- [Sell item page](#sell-item-page)
+- [Edit item page](#edit-item-page)
+- [Offers page](#offer-page)
+- [Report item page](#report-page)
+- [Profile page](#profile-page)
+- [Edit profile page](#edit-profile-page)
+- [Other's Profile Page](#other's-profile-page)
+- [Sign out page](#sign-out-page)
+- [Admin home page(Admin)](#admin-home-page)
+- [Report list page(Admin)](#report-list-page)
+- [Delete report page(Admin)](#delete-report-page)
+- [Delete item page(Admin)](#delete-item-page)
+- [Contact us page](#contact-us-page)
 
 ## Goal
 By the end of the project we will have a working program that will allow users to easily post items that they would like to sell using picture, browse the items posted, and buy the items or make an offer on an item using a form.
@@ -45,36 +56,45 @@ This is the page that the viewer will first see when opening up the website. It 
 
 <img src="images/landing-page.png">
 
-### User Home page
-When the user signs in, They are given options above like "List Item" and "Create Item" on the top navbar alongside a profile indicator on the topright which can direct them to a profile page of their own or the option to sign out
+### Register page
+If the user does not have an account, they will have to enter their first and last name, email, and password. The register page will require them to enter all the information, and when they click submit their account will created. 
 
-<img src="images/user-home.png">
-
-
-### Admin Home page
-When the admin signs in, They are given the same option that the users are given but with additional admin controls as seen on the admin button on the top of their navbar
-
-<img src="images/admin-home.png">
+<img src="images/register.png">
 
 ### Log in page
 Users add their username and password, and when they click submit, they are brought to the home page. If the user does not have a profile, then they can click on the "Click here to register" button.
 
 <img src="images/login.png">
 
-### Register page
-If the user does not have an account, they will have to enter their first and last name, email, and password. The register page will require them to enter all the information, and when they click submit their account will created. 
+### User Home page
+When the user signs in, They are given options above like "List Item" and "Create Item" on the top navbar alongside a profile indicator on the topright which can direct them to a profile page of their own or the option to sign out
 
-<img src="images/register.png">
+<img src="images/user-home.png">
 
-### List Item page
-The user will be able to see all the items listed for sale as well as any items they have added to the site sorted by the labels they are categorized in. 
+### List all page
+When the user selects listall, they will see all the items that every user is currently offering for trade. The red button that says delete item is only exclusive for admins in case they find an item that is in importance to be deleted so users will not be offended or scammed.
 
-<img src="images/sell-item.png">
+<img src="images/list-all-page.png">
 
-### List Item page (Admin)
-When Admin is logged in, they will be able to see the items listed by category and also see them all at once. They also can delete items listed.  
+### Catalog page
+The users can also filter their options using the catalog button on the top of the bar and filter through the four options which is appliances, services, textbooks, and miscellaneous. 
 
-<img src="images/admin-list.png">
+<img src="images/catalog.png">
+
+### Sell item page
+When the user is ready to sell an item they can input the information and provide a picture for the item as well as the label for the item which will place it on the correct category page. 
+
+<img src="images/sell-item-v3.png">
+
+### Edit item page
+User's will be able to edit items they listed for sale under their profile page.
+
+<img src="images/edit-item.png">
+
+### Offer page
+Once the user spots an item that they want to trade or purchase, they will press on the offer button and see their details while also clarifying whether this item is what they want to purchase.
+
+<img src="images/offer.png">
 
 ### Report page
 You can also report items, they will appear for the admin to review. 
@@ -86,29 +106,43 @@ The User will be able to see the items they listed as well as their personal inf
 
 <img src="images/profile-page.png">
 
-### Edit Profile
+### Edit Profile page
 The user will only be able to edit their username, bio, and picture.
 
 <img src="images/edit-profile.png">
 
-### Edit Item
-User's will be able to edit items they listed for sale under their profile page.
-
-<img src="images/edit-item.png">
-
-### Sell Item
-When the user is ready to sell an item they can input the information and provide a picture for the item as well as the label for the item which will place it on the correct category page. 
-
-<img src="images/sell-item.png">
-
-### List All
-User's can also see all the current items listed if they do not have a specific category they are looking for. 
-
-<img src="images/list-all.png">
-
 ### Other's Profile Page
 User's can also see other's profile pages and leave a review on their page. 
 <img src="images/review.png">
+
+### Sign out page
+The user can sign out by pressing their profile on the top right of the website and then pressing sign out which will direct them to the sign out page clarifying that they have signed out
+<img src="images/sign-out.png">
+
+### Admin Home page
+When the admin signs in, They are given the same option that the users are given but with additional admin controls as seen on the admin button on the top of their navbar
+
+<img src="images/admin-home.png">
+
+### Report list page (Admin)
+The report list is an admin exclusive page where the admins can see the amount of reports that have been made by the users. The admins can choose to delete the reports regardless of whether they find it unnecessary or necessary to delete it
+
+<img src="images/report-list.png">
+
+### Delete report page (Admin)
+This page is just a confirmation to make sure whether the admin wants to delete this specific report or not. Once they read and confirmed its the report they want to delete. They will press the delete button to confirm their selection.
+
+<img src="images/delete-report.png">
+
+### Delete item page (Admin)
+Once the admin has pressed the delete item button on the specific item, the page will clarify whether they want to delete the item or not. Once it is the item they want to delete, they will press the delete button to confirm their selection.
+
+<img src="images/delete-item.png">
+
+### Contact us page
+These are the list of people to contact in case the website is experiencing issues or if you would like to implement an improvement. These people are also the ones that have worked on the website.
+
+<img src="contact-us-page.png">
           
 # Developer Guide
 This section provides instruction on how to install the project on your own device and view. 
