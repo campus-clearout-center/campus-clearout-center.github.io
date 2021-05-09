@@ -142,7 +142,7 @@ Once the admin has pressed the delete item button on the specific item, the page
 ### Contact us page
 These are the list of people to contact in case the website is experiencing issues or if you would like to implement an improvement. These people are also the ones that have worked on the website.
 
-<img src="contact-us-page.png">
+<img src="images/contact-us-page.png">
           
 # Developer Guide
 This section provides instruction on how to install the project on your own device and view. 
