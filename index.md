@@ -1,4 +1,16 @@
 ![ci-badge](https://github.com/campus-clearout-center/clearout-center/workflows/campus-clearout-center/badge.svg)
+
+# Table of contents
+- [Description](#Description)
+- [Deployment](#Deployment)
+- [Project Pages](#Project-Pages)
+- [Team Members](#Team-Members)
+- [System pages](#System)
+- [Goal](#Goal)
+- [Community Feedback](#Community-Feedback)
+- [User Guide](#User-Guide)
+- [Developer Guide](#Developer-Guide)
+
 ## Description
 Campus Clearout Center is a program that will allow users of the UHM community to list and post various objects for sale. After all, another man's trash is another man's treasure. But for the UHM community this could be old textbooks, "campus-specific" goods, generally things that need to be recycled which might offer use to another student. The service will allow buyers to easily browse through the item and choose a location on campus to meet.
 
@@ -48,7 +60,7 @@ We received these common critics about our website and changed them in order to 
 - Logo would look better in white
 - More context on home page to explain the website for first time users.
 
-# User Guide
+## User Guide
 This section provides a walkthrough of our campus clearout center user interface and its capabilities.
 
 ### Landing page
@@ -144,10 +156,10 @@ These are the list of people to contact in case the website is experiencing issu
 
 <img src="images/contact-us-page.png">
           
-# Developer Guide
+## Developer Guide
 This section provides instruction on how to install the project on your own device and view. 
  
-## Installation 
+### Installation 
 First [install Meteor](https://www.meteor.com/developers/install)
  
 Second, visit the [Campus Clearout Center github page](https://github.com/campus-clearout-center/clearout-center), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
