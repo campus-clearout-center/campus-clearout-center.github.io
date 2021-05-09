@@ -111,7 +111,7 @@ Once the user spots an item that they want to trade or purchase, they will press
 ### Report page
 You can also report items, they will appear for the admin to review. 
 
-<img src="images/report.png">
+<img src="images/report-page.png">
 
 ### Profile page
 The User will be able to see the items they listed as well as their personal information.
