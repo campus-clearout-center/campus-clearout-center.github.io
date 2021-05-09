@@ -29,7 +29,7 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 - [Report item page](#report-page)
 - [Profile page](#profile-page)
 - [Edit profile page](#edit-profile-page)
-- [Other's Profile Page](#other's-profile-page)
+- [Other's Profile Page](#others-profile-page)
 - [Sign out page](#sign-out-page)
 - [Admin home page(Admin)](#admin-home-page)
 - [Report list page(Admin)](#report-list-page)
