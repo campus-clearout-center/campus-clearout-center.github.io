@@ -29,12 +29,12 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 - [Report item page](#report-page)
 - [Profile page](#profile-page)
 - [Edit profile page](#edit-profile-page)
-- [Other's Profile Page](#other's-profile-page)
+- [Other's Profile Page](#Other's-profile-page)
 - [Sign out page](#sign-out-page)
-- [Admin home page(Admin)](#admin-home-page)
-- [Report list page(Admin)](#report-list-page)
-- [Delete report page(Admin)](#delete-report-page)
-- [Delete item page(Admin)](#delete-item-page)
+- [Admin home page(Admin)](#admin-home-page(admin))
+- [Report list page(Admin)](#report-list-page(admin))
+- [Delete report page(Admin)](#delete-report-page(admin))
+- [Delete item page(Admin)](#delete-item-page(admin))
 - [Contact us page](#contact-us-page)
 
 ## Goal
@@ -111,7 +111,7 @@ The user will only be able to edit their username, bio, and picture.
 
 <img src="images/edit-profile.png">
 
-### Other's Profile Page
+### Other's profile page
 User's can also see other's profile pages and leave a review on their page. 
 <img src="images/review.png">
 
@@ -119,7 +119,7 @@ User's can also see other's profile pages and leave a review on their page.
 The user can sign out by pressing their profile on the top right of the website and then pressing sign out which will direct them to the sign out page clarifying that they have signed out
 <img src="images/sign-out.png">
 
-### Admin Home page
+### Admin Home page (Admin)
 When the admin signs in, They are given the same option that the users are given but with additional admin controls as seen on the admin button on the top of their navbar
 
 <img src="images/admin-home.png">
