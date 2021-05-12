@@ -8,7 +8,7 @@
 - [System pages](#system)
 - [Goal](#goal)
 - [Individual Community Feedback](#individual-community-feedback)
-- [Community Feedback](#overall-community-feedback)
+- [Overall Community Feedback](#overall-community-feedback)
 - [User Guide](#user-guide)
 - [Developer Guide](#developer-guide)
 
