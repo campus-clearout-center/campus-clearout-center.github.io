@@ -7,7 +7,8 @@
 - [Team Members](#team-members)
 - [System pages](#system)
 - [Goal](#goal)
-- [Community Feedback](#community-feedback)
+- [Individual Community Feedback](#individual-community-feedback)
+- [Community Feedback](#overall-community-feedback)
 - [User Guide](#user-guide)
 - [Developer Guide](#developer-guide)
 
@@ -54,6 +55,7 @@ By the end of the project we will have a working program that will allow users t
 
 ## Individual Community Feedback
 (Disclaimer: Feedback was given before changes were made to the final version)
+
  4/30/21
  - Home text page hard to read
  - Contact us : page to a form where user can fill things out instead of listed below
@@ -90,7 +92,8 @@ By the end of the project we will have a working program that will allow users t
 ## Overall Community Feedback
 The overall feedback we got from UH community members was that our website was simple and well formatted. It was not too distracting and they found it to be usefull for students who are moving out an easier way to sell their stuff. 
 We received these common critics about our website and changed them in order to make our design more user friendly : 
-- negative price for selling an item should not be allowed
+
+- Negative price for selling an item should not be allowed
 - Image option is a little confusing
 - Home text page is hard to read
 - Logo would look better in white
