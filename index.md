@@ -52,7 +52,42 @@ Campus Clearout Center is a program that will allow users of the UHM community t
 ## Goal
 By the end of the project we will have a working program that will allow users to easily post items that they would like to sell using picture, browse the items posted, and buy the items or make an offer on an item using a form.
 
-## Community Feedback
+## Individual Community Feedback
+(Disclaimer: Feedback was given before changes were made to the final version)
+ 4/30/21
+ - Home text page hard to read
+ - Contact us : page to a form where user can fill things out instead of listed below
+ - logo : white font to match
+ - more context on home page to explain website for first time users?
+ - Sell item, how does image box work? Upload button be better. Move image to bottom
+ - label does not include Miscellaneous option
+ - Yeah, it allow students who are maybe moving out an easier way to sell their stuff
+ 
+ 5/1/21
+ - simple and nice shop website
+ - Well formatted
+ - Nothing too distracting
+ - image option could be more understandable
+
+ 5/2/21
+ - Looks bareboned 
+ - Once the item is sold it should redirect back to the items page
+ - picture for the middle landing page looks blurry
+ - Have an option to have a “more details” of a specific item
+ - Have also a box that describes its conditions and more details of the item
+
+5/7/21
+ - Need more context on what to do when logged in
+ - Missing miscellaneous is not available when creating an item
+ - Image upload is confusing
+ - Needs a contact us
+
+5/9/21
+- You can put a negative price -- that probably shouldn't be allowed
+- The images part is confusing -- it seems like I'm supposed to put a link to an image in that input box, but it took me a few tries to figure that out
+- I did notice that a user cannot register using an email that's already taken, so that's good
+
+## Overall Community Feedback
 The overall feedback we got from UH community members was that our website was simple and well formatted. It was not too distracting and they found it to be usefull for students who are moving out an easier way to sell their stuff. 
 We received these common critics about our website and changed them in order to make our design more user friendly : 
 - negative price for selling an item should not be allowed
@@ -174,38 +209,3 @@ Third, cd into the clearout-center/app directory and install libraries with:
  $ meteor npm run start
  ```
  If all goes well, the application will appear at http://localhost:3000.
- 
-**Here is our community feedback (Some of the feedback shown was presented before more changes were made to the website)**
- 
- 4/30/21
- - Home text page hard to read
- - Contact us : page to a form where user can fill things out instead of listed below
- - logo : white font to match
- - more context on home page to explain website for first time users?
- - Sell item, how does image box work? Upload button be better. Move image to bottom
- - label does not include Miscellaneous option
- - Yeah, it allow students who are maybe moving out an easier way to sell their stuff
- 
- 5/1/21
- - simple and nice shop website
- - Well formatted
- - Nothing too distracting
- - image option could be more understandable
-
- 5/2/21
- - Looks bareboned 
- - Once the item is sold it should redirect back to the items page
- - picture for the middle landing page looks blurry
- - Have an option to have a “more details” of a specific item
- - Have also a box that describes its conditions and more details of the item
-
-5/7/21
- - Need more context on what to do when logged in
- - Missing miscellaneous is not available when creating an item
- - Image upload is confusing
- - Needs a contact us
-
-5/9/21
-- You can put a negative price -- that probably shouldn't be allowed
-- The images part is confusing -- it seems like I'm supposed to put a link to an image in that input box, but it took me a few tries to figure that out
-- I did notice that a user cannot register using an email that's already taken, so that's good
