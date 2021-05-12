@@ -204,3 +204,8 @@ Third, cd into the clearout-center/app directory and install libraries with:
  - Missing miscellaneous is not available when creating an item
  - Image upload is confusing
  - Needs a contact us
+
+5/9/21
+- You can put a negative price -- that probably shouldn't be allowed
+- The images part is confusing -- it seems like I'm supposed to put a link to an image in that input box, but it took me a few tries to figure that out
+- I did notice that a user cannot register using an email that's already taken, so that's good
